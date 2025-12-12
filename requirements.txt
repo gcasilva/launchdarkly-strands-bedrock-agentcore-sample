@@ -1,0 +1,5 @@
+bedrock-agentcore
+strands-agents
+launchdarkly-server-sdk
+launchdarkly-server-sdk-ai
+python-dotenv
