@@ -1,5 +1,6 @@
+boto3
 bedrock-agentcore
-strands-agents
+strands-agents[otel]
 launchdarkly-server-sdk
 launchdarkly-server-sdk-ai
 python-dotenv
