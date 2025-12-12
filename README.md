@@ -1,9 +1,7 @@
 Sample agent using LaunchDarkly AI Configs SDK + Strands SDK deployed on Amazon Bedrock Agentcore.
 
 Pre-requisites in your local computer:
-Python
-AWS CLi
-strands-agents - The Strands Agents SDK (https://strandsagents.com/latest/)
+1 - Python,2 - AWS CLi (latest version),3 - strands-agents - The Strands Agents SDK (https://strandsagents.com/latest/)
 
 To run:
 
